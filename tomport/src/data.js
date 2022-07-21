@@ -6,14 +6,14 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "./project-1.gif",
-      link: "",
+      link: "google.com",
     },
     {
       title: "Music Suggestion App",
       subtitle: "Node, MySQL, Javascript, Express",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
+      image: "../assets/2.png",
       link: "https://tranquil-retreat-40972.herokuapp.com/search",
     },
     {
@@ -30,6 +30,10 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "./project-4.gif",
-      link: "",
+      link: "google.com",
     },
+  ];
+
+
+  export const skills = [ "React", "Javascript", "Python", "HTML", "CSS","MySql", "MongoDB", "Node.js"
   ];

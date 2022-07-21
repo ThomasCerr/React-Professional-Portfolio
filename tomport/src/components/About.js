@@ -1,4 +1,5 @@
 import React from "react";
+import pro from "../assets/pro.jpeg"
 
 export default function About() {
   return (
@@ -33,7 +34,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg"
+            src={pro}
           />
         </div>
       </div>
