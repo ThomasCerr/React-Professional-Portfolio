@@ -9,9 +9,9 @@ function Contact () {
 
 
     return (
-        <section id="contact" className="bg-gray-800 top-0 z-10">
-            <h2 className="contact-text ">Contact Me:</h2>
-            <div className="contact-box container mx-auto flex flex-wrap p-5  md:flex-row items-center">
+        <section id="contact" className="bg-gray-800">
+            <h2 className="contact-text text-center text-4xl p-4 text-white">Contact Me</h2>
+            <div className="flex justify-between items-center w-full text-white px-20" >
                 <div className="phone">
                     <img src={phone} alt="phone icon" className = "h-20 w-20"></img>
                     <h4>804-317-2711</h4>
@@ -19,7 +19,7 @@ function Contact () {
                 <div className="email">
                     <a href="mailto:thomasc2@vt.edu">
                         <img src={mail} alt="mail icon" className = "h-20 w-20"></img>
-                        <h4>Thomasc2@vt.edu</h4>
+                        <h4>Email</h4>
                     </a>
                 </div>
                 <div className="github">
