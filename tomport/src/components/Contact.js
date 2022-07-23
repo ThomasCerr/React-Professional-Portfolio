@@ -5,8 +5,8 @@ import github from "../assets/github-logopic.png"
 import linkedin from "../assets/linkedinpic.png"
 
 
-function Contact () {
 
+function Contact () {
 
     return (
         <section id="contact" className="bg-gray-800">
