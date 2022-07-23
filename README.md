@@ -49,6 +49,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 ## Mockup
 
-![image](https://user-images.githubusercontent.com/99366289/179871208-19e893b4-8bf0-4ac1-8f1c-4ebbe5a8177b.png)
+![image](https://user-images.githubusercontent.com/99366289/180617264-47f5d5f9-24f3-4c7e-b27e-36f8cd9ed64b.png)
+
 
 
