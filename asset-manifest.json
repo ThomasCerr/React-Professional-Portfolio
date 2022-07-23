@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Professional-Portfolio/static/css/main.dab5fc48.css",
+    "main.js": "/React-Professional-Portfolio/static/js/main.acb810e2.js",
+    "static/media/brewery.PNG": "/React-Professional-Portfolio/static/media/brewery.fa7b1c3a04c99ee4ebb4.PNG",
+    "static/media/phone-iconpic.jpg": "/React-Professional-Portfolio/static/media/phone-iconpic.fec43e92bbc01b03dc83.jpg",
+    "static/media/mail-iconpic.jpg": "/React-Professional-Portfolio/static/media/mail-iconpic.f692afd1f5d412632e2d.jpg",
+    "static/media/linkedinpic.png": "/React-Professional-Portfolio/static/media/linkedinpic.05a3fb1922ddd432a57e.png",
+    "static/media/pro.jpeg": "/React-Professional-Portfolio/static/media/pro.dee9925fb20bbdd6e414.jpeg",
+    "static/media/music.PNG": "/React-Professional-Portfolio/static/media/music.0bc02c63f2ab98812f0f.PNG",
+    "index.html": "/React-Professional-Portfolio/index.html",
+    "main.dab5fc48.css.map": "/React-Professional-Portfolio/static/css/main.dab5fc48.css.map",
+    "main.acb810e2.js.map": "/React-Professional-Portfolio/static/js/main.acb810e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dab5fc48.css",
+    "static/js/main.acb810e2.js"
+  ]
+}
