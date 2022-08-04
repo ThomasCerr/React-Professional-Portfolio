@@ -1,5 +1,6 @@
 import breweryimage from "./assets/brewery.PNG"
 import musicimage from "./assets/music.PNG"
+import sauceimage from "./assets/SauceBoss.PNG"
 
 export const projects = [
     {
@@ -27,12 +28,12 @@ export const projects = [
       link: "https://thomascerr.github.io/TABS-Brewery-Weather-Application/",
     },
     {
-      title: "Project 4",
-      subtitle: "Subtitle will go here",
+      title: "Sauce Boss",
+      subtitle: "React, Javascript, MongoDB, GraphQL",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: breweryimage,
-      link: "google.com",
+        "Sauce Boss is an application for hot sauce lovers that is based on six sauces in the “Sauce Boss” brand. It offers the functionality for users to create an account, login, and review our sauces",
+      image: sauceimage,
+      link: "https://sauceboss.herokuapp.com/",
     },
   ];
 
